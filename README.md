@@ -1,2 +1,2 @@
 # lj_doc
-A lua documents auto generator by pure lua code (HTML style)
+基于Lua的Lua代码文档自动生成器，使用HTML模板来生成出说明文档。本工具需要建立单独的专用的文档文件，一般不建议直接从Lua源代码+注释来生成文档。
